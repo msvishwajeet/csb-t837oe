@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://msvishwajeet.github.io/csb-t837oe/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://msvishwajeet.github.io/csb-t837oe/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://msvishwajeet.github.io/csb-t837oe/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://msvishwajeet.github.io/csb-t837oe/static/js/runtime-main.7d1f0ff4.js",
+    "runtime-main.js.map": "https://msvishwajeet.github.io/csb-t837oe/static/js/runtime-main.7d1f0ff4.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://msvishwajeet.github.io/csb-t837oe/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://msvishwajeet.github.io/csb-t837oe/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://msvishwajeet.github.io/csb-t837oe/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://msvishwajeet.github.io/csb-t837oe/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://msvishwajeet.github.io/csb-t837oe/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d1f0ff4.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
